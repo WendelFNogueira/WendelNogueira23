@@ -1,6 +1,8 @@
 ## E aí pessoal, tudo bem? Sejam muito bem vindos ao meu Github!
 
-#Sobre mim
+
+
+## Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca cursando o 3° Período.
 
@@ -18,23 +20,24 @@ Por conta dos meus estudos com Python, também tenho estudado o funcionamento de
 
 
 
-##Idiomas
+## Idiomas
 
 - Português: Nativo
 - Inglês: Intermediário
 
 
-##📫 Como me encontrar:
+## 📫 Como me encontrar:
 
 :busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
 :twisted_rightwards_arrows: Twitter: https://twitter.com/CapitaoNeutro
 :rseat: Rocketseat: https://app.rocketseat.com.br/me/wendel-nogueira-05233
 
 
+
 ## Hey guys, how you doing? Welcome to my Github!
 
 
-##About me
+## About me
 
 Student of Systems Analysis and Development at Centro Universitário Unicarioca attending the 3rd Period.
 
@@ -49,13 +52,13 @@ Because of my studies with Python, I have also studied the operation of chatbots
 - 👯 I’m looking to collaborate on Web Development or Data Science using Machine Learning with Python.
 - 🤔 I’m looking for help with personal improvement of my skills
 
-##Languages
+## Languages
 
 - Portuguese: Native
 - English: Intermediate
 
 
-##📫 How to reach me:
+## 📫 How to reach me:
 
 :busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
 :twisted_rightwards_arrows: Twitter: https://twitter.com/CapitaoNeutro
