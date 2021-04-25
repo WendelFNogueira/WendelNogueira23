@@ -36,6 +36,9 @@ Por conta dos meus estudos com Python, também tenho estudado o funcionamento de
 
 
 
+##
+
+
 ## Hey guys, how you doing? Welcome to my Github!
 
 
