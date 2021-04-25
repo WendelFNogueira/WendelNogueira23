@@ -29,8 +29,10 @@ Por conta dos meus estudos com Python, também tenho estudado o funcionamento de
 ## 📫 Como me encontrar:
 
 :busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
+
 :twisted_rightwards_arrows: Twitter: https://twitter.com/CapitaoNeutro
-:rseat: Rocketseat: https://app.rocketseat.com.br/me/wendel-nogueira-05233
+
+:rocket: Rocketseat: https://app.rocketseat.com.br/me/wendel-nogueira-05233
 
 
 
