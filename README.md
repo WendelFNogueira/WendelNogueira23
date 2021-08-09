@@ -14,7 +14,7 @@ Por conta dos meus estudos com Python, também tenho estudado o funcionamento de
 
 
 - 🔭 Atualmente estou trabalhando na Feegow Clinic como Estagiário de Desenvolvimento
-- 🌱 Recentemente iniciei meus estudos de Javascript, especialmente a respeito dos frameworks NodeJs e ReactJS.
+- 🌱 Recentemente iniciei meus estudos de Javascript, seus frameworks e libs, especialmente NodeJs e ReactJS.
 - 👯 Busco colaborar em desenvolvimento web ou ciência de dados usando machine learning com Python.
 - 🤔 Busco melhorar minhas habilidades profissionais.
 
@@ -53,7 +53,7 @@ Having focused all my studies on web applications in a fullstack manner. Fronten
 Because of my studies with Python, I have also studied the operation of chatbots for Whatsapp and Telegram. Seeking to understand the functioning of Artificial Intelligence, Machine Learning and Data Science. In addition to experimenting with Python frameworks available for hacking.
 
 - 🔭 I'm currently working on Feegow Clinic at intern Development
-- 🌱 I’m currently learning about Javascript and your frameworks, specially NodeJs and ReactJS.
+- 🌱 I’m currently learning about Javascript and your frameworks and libs, specially NodeJs and ReactJS.
 - 👯 I’m looking to collaborate on Web Development or Data Science using Machine Learning with Python.
 - 🤔 I’m looking for help with personal improvement of my skills
 
