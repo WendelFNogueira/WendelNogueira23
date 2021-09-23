@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca cursando o 3° Período.
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca cursando o 4° Período.
 
 Estudo também de forma autodidata com cursos na Udemy. Cursos gratuitos de Harvard, IBM, MIT pela Edx. Workshops da Rocketseat, Alura, Digital House Brasil, etc.
 
-Tendo focado todo os meus estudos em aplicações web de forma fullstack. Frontend, Backend, Banco de Dados, DevOps e Mobile app.
+Tendo focado todo os meus estudos em aplicações web de forma fullstack. Frontend, Backend, Banco de Dados, e Mobile app.
 
 Por conta dos meus estudos com Python, também tenho estudado o funcionamento de chatbots para Whatsapp e Telegram. Buscando entender o funcionamento de Inteligência Artificial, Machine Learning e Ciência de Dados. Além de experimentar frameworks do Python disponíveis para hacking.
 
