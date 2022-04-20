@@ -1,21 +1,44 @@
+## Hey guys, how you doing? Welcome to my Github!
+
+
+## About me
+
+Student of Systems Analysis and Development at Centro Universitário Unicarioca in the 5th period.
+
+I'm a full-stack developer with 1 year of experience in web development. I work at IBM Consulting providing custom design experiences for meet consumer needs at the moment. I have knowledge in functional and reactive programming, making use of ReactJs, Node + Nest, GraphQL, Typescript and message queue with RabbitMQ. My daily routine also includes implementing unit tests with Jest before running the CI/CD pipeline using Docker, Jenkins and ArgoCD. To monitor the api I use Grafana and SonarQube and I have studied some AWS services and implemented them in my own projects.
+
+- 🔭 I'm currently working on IBM at position Application Developer: Cloud Fullstack
+- 🌱 I recently started my studies to get the AWS certificate.
+- 👯 I seek to collaborate in web development or game development.
+- 🤔 I’m looking for help with personal improvement of my skills
+
+## Languages
+
+- Portuguese: Native
+- English: Intermediate
+
+
+## 📫 How to reach me:
+
+:busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
+
+##
+
 ## E aí pessoal, tudo bem? Sejam muito bem vindos ao meu Github!
 
 
 
 ## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca cursando o 4° Período.
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Unicarioca cursando o 5° Período.
 
-Estudo também de forma autodidata com cursos na Udemy. Cursos gratuitos de Harvard, IBM, MIT pela Edx. Workshops da Rocketseat, Alura, Digital House Brasil, etc.
-
-Tendo focado todo os meus estudos em aplicações web de forma fullstack. Frontend, Backend, Banco de Dados, e Mobile app.
-
-Por conta dos meus estudos com Python, também tenho estudado o funcionamento de chatbots para Whatsapp e Telegram. Buscando entender o funcionamento de Inteligência Artificial, Machine Learning e Ciência de Dados. Além de experimentar frameworks do Python disponíveis para hacking.
+Sou desenvolvedor full-stack com 1 ano de experiência em desenvolvimento web. Eu trabalho na IBM Consulting fornecendo experiências de design personalizadas para 
+atender às necessidades do consumidor no momento. Tenho conhecimento em programação funcional e reativa, fazendo uso de ReactJs, Node + Nest, GraphQL, Typescript e fila de mensagens com RabbitMQ. Meu cotidiano inclui também implementação de testes unitários com Jest antes de rodar a pipeline CI/CD usando Docker, Jenkins e ArgoCD. Para monitoramento da api faço uso do Grafana e SonarQube e tenho estudado alguns serviços AWS e implementado em projetos próprios.
 
 
-- 🔭 Atualmente estou trabalhando na Feegow Clinic como Estagiário de Desenvolvimento
-- 🌱 Recentemente iniciei meus estudos de Javascript, seus frameworks e libs, especialmente NodeJs e ReactJS.
-- 👯 Busco colaborar em desenvolvimento web ou ciência de dados usando machine learning com Python.
+- 🔭 Atualmente estou trabalhando na IBM como Desenvolvedor de Aplicações Fullstack Cloud
+- 🌱 Recentemente iniciei meus estudos para tirar o certificado AWS.
+- 👯 Busco colaborar em desenvolvimento web ou desenvolvimento de jogos.
 - 🤔 Busco melhorar minhas habilidades profissionais.
 
 
@@ -29,44 +52,3 @@ Por conta dos meus estudos com Python, também tenho estudado o funcionamento de
 ## 📫 Como me encontrar:
 
 :busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
-
-:twisted_rightwards_arrows: Twitter: https://twitter.com/CapitaoNeutro
-
-:rocket: Rocketseat: https://app.rocketseat.com.br/me/wendel-nogueira-05233
-
-
-
-##
-
-
-## Hey guys, how you doing? Welcome to my Github!
-
-
-## About me
-
-Student of Systems Analysis and Development at Centro Universitário Unicarioca attending the 3rd Period.
-
-I also study self-taught with courses at Udemy. Free courses from Harvard, IBM, MIT by Edx. Rocketseat, Alura, Digital House Brasil workshops, etc.
-
-Having focused all my studies on web applications in a fullstack manner. Frontend, Backend, Database, DevOps and Mobile app.
-
-Because of my studies with Python, I have also studied the operation of chatbots for Whatsapp and Telegram. Seeking to understand the functioning of Artificial Intelligence, Machine Learning and Data Science. In addition to experimenting with Python frameworks available for hacking.
-
-- 🔭 I'm currently working on Feegow Clinic at intern Development
-- 🌱 I’m currently learning about Javascript and your frameworks and libs, specially NodeJs and ReactJS.
-- 👯 I’m looking to collaborate on Web Development or Data Science using Machine Learning with Python.
-- 🤔 I’m looking for help with personal improvement of my skills
-
-## Languages
-
-- Portuguese: Native
-- English: Intermediate
-
-
-## 📫 How to reach me:
-
-:busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
-
-:twisted_rightwards_arrows: Twitter: https://twitter.com/CapitaoNeutro
-
-:rocket: Rocketseat: https://app.rocketseat.com.br/me/wendel-nogueira-05233
