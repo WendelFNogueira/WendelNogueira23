@@ -3,7 +3,7 @@
 
 ## About me
 
-Student of Systems Analysis and Development at Centro Universitário Unicarioca in the last period.
+Graduated in Systems Analysis and Development at Centro Universitário Unicarioca.
 
 I’m a fullstack developer with 18 months of experience in web development. I work on IBM Consulting providing designing personalized experiences to meet consumer’s needs in the moment. I have knowledge in functional, reactive programming, microsservices with Nodejs, docker, jenkins and aws cloud solutions.
 
