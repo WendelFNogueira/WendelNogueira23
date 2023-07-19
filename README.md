@@ -15,7 +15,7 @@ I’m a fullstack developer with 2 years of experience in web development. I wor
 ## Languages
 
 - Portuguese: Native
-- English: Intermediate(B2)
+- English: Advanced(C1)
 
 
 ## 📫 How to reach me:
