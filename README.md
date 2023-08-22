@@ -20,4 +20,9 @@ I’m a fullstack developer with 2 years of experience in web development. I wor
 
 ## 📫 How to reach me:
 
-:busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendel-nogueira-87a1a01b0/
+:busts_in_silhouette: Linkedin: https://www.linkedin.com/in/wendelfnogueira/
+
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="wendelfnogueira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wendelfnogueira?trk=profile-badge">Wendel Nogueira</a></div>
+
