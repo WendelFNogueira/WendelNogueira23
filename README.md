@@ -5,7 +5,7 @@
 
 Graduated with Associate Degree in Systems Analysis and Development at Centro Universitário Unicarioca.
 
-I’m a Software Engineer with 3 years of experience in web development. I work on IBM Consulting providing designing personalized experiences to meet consumer’s needs in the moment. I have knowledge in functional, reactive programming, microsservices with Nodejs, docker, jenkins and aws cloud solutions.
+I'm an experienced software engineer, specializing in Backend development and Cloud migration. I'm currently with IBM, focusing on crafting tailored experiences to address real-time consumer needs, particularly within the banking industry. My expertise spans functional and reactive programming, microservices (Node.js, Nest.js, Express), Docker, Jenkins, Kubernetes, Git, SQL and NoSQL databases, and AWS cloud solutions.
 
 - 🔭 I'm currently working on IBM at position Application Developer: Cloud Fullstack
 - 🌱 I'm AWS certified.
